@@ -209,3 +209,4 @@ __marimo__/
 # mycustom
 .idea/
 *.pth
+gpt2_124M/
