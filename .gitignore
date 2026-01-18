@@ -210,3 +210,4 @@ __marimo__/
 .idea/
 *.pth
 gpt2_124M/
+gpt2/
