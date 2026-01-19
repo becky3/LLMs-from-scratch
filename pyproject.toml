@@ -5,6 +5,7 @@ description = "Add your description here"
 requires-python = ">=3.10"
 dependencies = [
     "pandas-stubs~=2.3.3",
+    "psutil>=7.2.1",
     "tensorflow>=2.15.0",
     "tqdm>=4.66",
 ]
